@@ -1,4 +1,4 @@
-# TNSDC-Hand-Written-Recognition-System
+#  TNSDC-Smart Handwritten Digits Decoder Using CNN
 
 ![Digit Recognition](./demo.gif)
 
